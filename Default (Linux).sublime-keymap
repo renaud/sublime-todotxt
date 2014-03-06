@@ -1,0 +1,3 @@
+[
+	{ "keys": ["alt+f11"], "command": "sort_todo"}
+]

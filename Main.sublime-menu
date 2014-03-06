@@ -1,0 +1,10 @@
+[
+	{
+		"id": "edit",
+		"children":
+		[
+			{ "id": "permute" },
+			{ "command": "sort_todo", "caption": "Sort Todo.txt"}
+		]
+	}
+]
