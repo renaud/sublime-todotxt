@@ -36,7 +36,7 @@ class SortTodoCommand(sublime_plugin.TextCommand):
 
             output = ''
             # unassigned
-            for item in unassigned:
+            for item in sorted(unassigned):
                 output += '%s%s' % (item, lend)
             output += lend * 2
 
